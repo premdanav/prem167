@@ -21,7 +21,7 @@ public class LargestNum {
             System.out.println(n2+" and "+n3  + " has the largest sum="+(n2+n3));
 
         
-        
+        System.out.println("The average of 3 numbers is : "+ ((n1+n2+n3)/3));
     }
 }
               
